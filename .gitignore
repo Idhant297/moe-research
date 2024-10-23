@@ -1,5 +1,3 @@
 .venv/
 olmoe/
-*.json
-*.png
 *.DS_Store
