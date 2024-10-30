@@ -1,3 +1,4 @@
 .venv/
 olmoe/
 *.DS_Store
+*.json
