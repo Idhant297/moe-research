@@ -47,7 +47,7 @@ The amusement park was fun.
 He lives near Central Park.
 Please don't park in front of the driveway.
 
-#Watch
+# Watch
 I wear a watch on my wrist.
 Let's watch a movie tonight.
 Watch out for that puddle!
