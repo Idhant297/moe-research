@@ -1,4 +1,6 @@
 .DS_Store
 __pycache__
 dump/
-data/
+input_words.txt
+word_embeddings_average.json
+word_embeddings.json
